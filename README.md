@@ -52,7 +52,4 @@ This project analyzes mental health survey data to identify patterns and factors
 - Helps understand demographic impact (age, gender)
 - Useful for basic mental health trend analysis
 
----
 
-## 👤 Author
-**Meghna Ramesh**
